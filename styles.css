@@ -1,0 +1,18 @@
+nav {
+  background-color: cadetblue;
+}
+
+nav ul {
+  align-items: center;
+  display: flex;
+  list-style-type: none;
+}
+
+nav ul li {
+  padding: 8px 16px;
+}
+
+.logo {
+  font-size: 30px;
+  margin-right: auto;
+}
